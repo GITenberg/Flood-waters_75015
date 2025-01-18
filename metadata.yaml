@@ -1,0 +1,30 @@
+_repo: Flood-waters_75015
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Lehman, Paul
+    gutenberg_agent_id: '57777'
+    url: http://www.gutenberg.org/2009/agents/57777
+creator:
+  author:
+    agent_name: Jamieson, Leland S.
+    gutenberg_agent_id: '57776'
+    url: http://www.gutenberg.org/2009/agents/57776
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75015'
+language: en
+pgterms:marc905: 20241221160544jamieson
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bThe Consolidated Magazines Corporation, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Flood waters
+url: http://www.gutenberg.org/ebooks/75015
