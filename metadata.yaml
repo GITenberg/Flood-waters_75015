@@ -5,12 +5,17 @@ contributor:
     agent_name: Lehman, Paul
     gutenberg_agent_id: '57777'
     url: http://www.gutenberg.org/2009/agents/57777
+covers:
+- cover_type: archival
+  image_path: 75015-h/images/cover.jpg
 creator:
   author:
     agent_name: Jamieson, Leland S.
     gutenberg_agent_id: '57776'
     url: http://www.gutenberg.org/2009/agents/57776
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75015#Flood-waters
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
